@@ -17,13 +17,17 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
 
       - name: Fetch Firebase Matches
-        run: curl -s ${{ secrets.FIREBASE_URL }} > matches_raw.json
+        run: |
+          curl -s "${{ secrets.FIREBASE_URL }}" > matches_raw.json
 
       - name: Create Pretty JSON
-        run: jq '{matches: .}' matches_raw.json > data.json
+        run: |
+          jq ". as \$data | {matches: \$data}" matches_raw.json > data.json
 
       - name: Commit & Push if Changed
         run: |
