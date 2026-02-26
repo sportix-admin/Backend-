@@ -30,9 +30,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "f96ca2c12f366330bbdf5ebc72797257:eb168ed9c2a857e7b86d533e0a39db48",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow17/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28&k1=f96ca2c12f366330bbdf5ebc72797257&k2=eb168ed9c2a857e7b86d533e0a39db48\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "beIN SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://play.ltwxsc.com/live/sd-6MvYrF3oE44aS3QZMg.m3u8?txSecret=703f000317e6945d53031bb1806b1c2b&txTime=69A0CF16",
+          "name": "PARAMOUNT+ HD",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -82,9 +89,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "e0d9cb8ea4f649dae8572747f6ca491c:1f92090eccefd128187d80566c62eb15",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow15/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28&k1=e0d9cb8ea4f649dae8572747f6ca491c&k2=1f92090eccefd128187d80566c62eb15\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "beIN SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://play.ltwxsc.com/live/sd-6MvYrF3oEd2nVEoJf8.m3u8?txSecret=e89744e4b32901cfc546bddf8c8f550a&txTime=69A0CF16",
+          "name": "PARAMOUNT+ HD",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -165,9 +179,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&k1=1d96ab366bbe6451edf7407b58e2fa16&k2=0116201f4a63ac5bf5787d2c610c41a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "TNT SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://play.ltwxsc.com/live/hd-en-6MvYrF3o4hAtTYMCUE.m3u8?txSecret=7428a7c21542e428d69cf64f978711b8&txTime=69A0CF16",
+          "name": "PARAMOUNT+ HD",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -206,9 +227,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "api": "53ac8e7c798f32280f42c25f04e1bf53:3115f4ccf41206451337fd3a030aabf1",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow02/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28&k1=53ac8e7c798f32280f42c25f04e1bf53&k2=3115f4ccf41206451337fd3a030aabf1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "beIN SPORTS",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -254,9 +275,23 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&k1=f288380ca4cef9ad3f27a92a08e9bb8b&k2=9f18d26291d9230833501f7f822f6875\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "TNT SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "9e3ceafefd61fd316a0d142f7046c424:1efde03590efcfb0c4324f02f3fa1c43",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow08/index.mpd?hdntl=exp%3D1772212924%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D46f688898d5161531e445b678322322b9ebb7ff4ee101d2fc56e3bff68ed12f4&hdnts=st%3D1772040120%7Eexp%3D1772126818%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3Df99ab15a5f1221cb234bf6997c149b838d31cebcce93fc2e331a1ed66bc01f28&k1=9e3ceafefd61fd316a0d142f7046c424&k2=1efde03590efcfb0c4324f02f3fa1c43\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "beIN SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://play.ltwxsc.com/live/hd-en-6MvVcskS4nrA8WwqPk.m3u8?txSecret=134b465bc1057254436a9e89e67616fb&txTime=69A0CE22",
+          "name": "PARAMOUNT+ HD",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -296,8 +331,8 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://play.ltwxsc.com/live/hd-en-6MvVcskSEE8oqyf2az.m3u8?txSecret=c9a5861efc11e114de0d3d4cc3056e53&txTime=69A0CE92",
+          "name": "PARAMOUNT+ HD",
           "source": "SPORTIX",
           "type": "Direct"
         }
