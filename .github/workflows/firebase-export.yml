@@ -1,8 +1,9 @@
+
 name: Export Firebase to JSON
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # প্রতি 5 মিনিটে
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,20 +14,21 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Fetch Firebase Data
-        run: |
-          curl -o matches.json https://sportix-webs-default-rtdb.firebaseio.com/matches.json
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Create data.json
+      - name: Fetch Firebase Matches
         run: |
-          echo '{ "matches":' > data.json
-          cat matches.json >> data.json
-          echo '}' >> data.json
+          curl -s https://sportix-webs-default-rtdb.firebaseio.com/matches.json > matches_raw.json
+
+      - name: Create Pretty data.json
+        run: |
+          jq '{matches: .}' matches_raw.json > data.json
 
       - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add data.json
-          git commit -m "Auto update data.json from Firebase" || echo "No changes"
+          git commit -m "Auto update formatted data.json from Firebase" || echo "No changes"
           git push
