@@ -1260,8 +1260,8 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD1451/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "Thmanyah - FHD",
+          "link": "https://pl3.wecanfix4.space/playlist/46010/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "FOX SOCCER+",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -1300,8 +1300,8 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD1451/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Thmanyah - FHD",
           "source": "SPORTIX",
           "type": "Direct"
         }
