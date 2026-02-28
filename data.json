@@ -781,54 +781,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/3697/image",
       "team2Name": "Penguins"
     },
-    "match_14201349": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-      "leagueTitle": "NHL",
-      "matchEndTime": "2026-02-28T07:30:00",
-      "matchTime": "2026-02-28T05:30:00",
-      "sportType": "ICE-HOCKEY",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3687/image",
-      "team1Name": "Panthers",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3678/image",
-      "team2Name": "Sabres",
-      "telegramSent": true
-    },
-    "match_14201350": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-      "leagueTitle": "NHL",
-      "matchEndTime": "2026-02-28T07:30:00",
-      "matchTime": "2026-02-28T05:30:00",
-      "sportType": "ICE-HOCKEY",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3691/image",
-      "team1Name": "Capitals",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/257523/image",
-      "team2Name": "Golden Knights",
-      "telegramSent": true
-    },
-    "match_14201351": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-      "leagueTitle": "NHL",
-      "matchEndTime": "2026-02-28T09:30:00",
-      "matchTime": "2026-02-28T07:30:00",
-      "sportType": "ICE-HOCKEY",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/530472/image",
-      "team1Name": "Mammoth",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3689/image",
-      "team2Name": "Wild",
-      "telegramSent": true
-    },
-    "match_14201352": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-      "leagueTitle": "NHL",
-      "matchEndTime": "2026-02-28T10:30:00",
-      "matchTime": "2026-02-28T08:30:00",
-      "sportType": "ICE-HOCKEY",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3675/image",
-      "team1Name": "Ducks",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3676/image",
-      "team2Name": "Jets",
-      "telegramSent": true
-    },
     "match_14201353": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
       "leagueTitle": "NHL",
@@ -895,42 +847,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/5324/image",
       "team2Name": "Juve Stabia"
     },
-    "match_14439194": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-28T09:00:00",
-      "matchTime": "2026-02-28T07:00:00",
-      "sportType": "BASKETBALL",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3411/image",
-      "team1Name": "Mavericks",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3415/image",
-      "team2Name": "Grizzlies",
-      "telegramSent": true
-    },
-    "match_14441904": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-28T08:30:00",
-      "matchTime": "2026-02-28T06:30:00",
-      "sportType": "BASKETBALL",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3410/image",
-      "team1Name": "Bucks",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3421/image",
-      "team2Name": "Knicks",
-      "telegramSent": true
-    },
-    "match_14442050": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-28T10:00:00",
-      "matchTime": "2026-02-28T08:00:00",
-      "sportType": "BASKETBALL",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3418/image",
-      "team1Name": "Thunder",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3417/image",
-      "team2Name": "Nuggets",
-      "telegramSent": true
-    },
     "match_14442173": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
       "leagueTitle": "NBA",
@@ -941,30 +857,6 @@
       "team1Name": "Heat",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3412/image",
       "team2Name": "Rockets"
-    },
-    "match_14442280": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-28T08:00:00",
-      "matchTime": "2026-02-28T06:00:00",
-      "sportType": "BASKETBALL",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3422/image",
-      "team1Name": "Celtics",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3436/image",
-      "team2Name": "Nets",
-      "telegramSent": true
-    },
-    "match_14442483": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
-      "leagueTitle": "NBA",
-      "matchEndTime": "2026-02-28T07:30:00",
-      "matchTime": "2026-02-28T05:30:00",
-      "sportType": "BASKETBALL",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/3424/image",
-      "team1Name": "Pistons",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/3432/image",
-      "team2Name": "Cavaliers",
-      "telegramSent": true
     },
     "match_14442554": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -977,39 +869,24 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/3414/image",
       "team2Name": "Trail Blazers"
     },
-    "match_14671741": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
-      "leagueTitle": "A-League Men",
-      "matchEndTime": "2026-02-28T11:30:00",
-      "matchTime": "2026-02-28T09:30:00",
-      "sportType": "FOOTBALL",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/800224/image",
-      "team1Name": "Auckland FC",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/42210/image",
-      "team2Name": "Melbourne City",
-      "telegramSent": true
-    },
     "match_14671742": {
+      "isStar": true,
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
       "leagueTitle": "A-League Men",
-      "matchEndTime": "2026-02-28T14:30:00",
-      "matchTime": "2026-02-28T12:30:00",
+      "matchEndTime": "2026-02-28T14:30",
+      "matchTime": "2026-02-28T12:30",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/139421-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE",
+          "source": "admin"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/5968/image",
       "team1Name": "Brisbane Roar",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2945/image",
       "team2Name": "Perth Glory"
-    },
-    "match_14671743": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
-      "leagueTitle": "A-League Men",
-      "matchEndTime": "2026-02-28T13:30:00",
-      "matchTime": "2026-02-28T11:30:00",
-      "sportType": "FOOTBALL",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/5966/image",
-      "team1Name": "Central Coast",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/2934/image",
-      "team2Name": "Newcastle Jets"
     },
     "match_14671744": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
