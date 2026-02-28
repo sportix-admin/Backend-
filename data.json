@@ -696,8 +696,8 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
+          "name": "SKY BUNDESLIGA SD",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -715,9 +715,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd&k1=335dad778109954503dcbb21dc92015f&k2=24bfd75d436cbf73168a2a2dccd40281\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "beIN ENGLISH",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
+          "name": "SKY BUNDESLIGA SD",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -747,8 +754,15 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD6412/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "ELEVEN SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/6v8yVbveVz4/index.m3u8",
+          "name": "SKY BUNDESLIGA SD",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -969,8 +983,8 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8",
+          "name": "beIN SPORTS",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -1120,25 +1134,6 @@
       "team1Name": "Hornets",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3414/image",
       "team2Name": "Trail Blazers"
-    },
-    "match_14671742": {
-      "isStar": true,
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
-      "leagueTitle": "A-League Men",
-      "matchEndTime": "2026-02-28T14:30",
-      "matchTime": "2026-02-28T12:30",
-      "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/139421-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "FANCODE",
-          "source": "admin"
-        }
-      ],
-      "team1Logo": "https://api.sofascore.com/api/v1/team/5968/image",
-      "team1Name": "Brisbane Roar",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/2945/image",
-      "team2Name": "Perth Glory"
     },
     "match_14671744": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
@@ -1358,18 +1353,6 @@
       "team1Name": "JPN",
       "team2Logo": "https://api.sofascore.com/api/v1/team/412036/image",
       "team2Name": "BRN"
-    },
-    "match_15631052": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/32398/image/dark",
-      "leagueTitle": "Quadrangular T20I Series in Thailand, Playoffs",
-      "matchEndTime": "2026-02-28T14:30:00",
-      "matchTime": "2026-02-28T07:30:00",
-      "sportType": "CRICKET",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/419423/image",
-      "team1Name": "THA",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/419424/image",
-      "team2Name": "BHU",
-      "telegramSent": true
     }
   }
 }
