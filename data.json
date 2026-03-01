@@ -1,31 +1,39 @@
 {
   "matches": {
+    "match_13694762": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
+      "leagueTitle": "India Women in Australia, 3 ODI Series",
+      "matchEndTime": "2026-03-01T16:20:00",
+      "matchTime": "2026-03-01T09:20:00",
+      "sportType": "CRICKET",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213117/image",
+      "team1Name": "AUS-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/213119/image",
+      "team2Name": "IND-W",
+      "telegramSent": true
+    },
+    "match_13926506": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+      "leagueTitle": "Pakistan Women in South Africa, 3 ODI Series",
+      "matchEndTime": "2026-03-01T20:30:00",
+      "matchTime": "2026-03-01T13:30:00",
+      "sportType": "CRICKET",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213118/image",
+      "team1Name": "SA-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187808/image",
+      "team2Name": "PAK-W"
+    },
     "match_13981683": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
       "leagueTitle": "Serie A",
       "matchEndTime": "2026-02-28T21:30:00",
       "matchTime": "2026-02-28T19:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "beIN ENGLISH",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd&k1=d1a163914db8ffad2c3e94f979896a0d&k2=9728800a3959aafdd5b0bcfbf3768811\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "FOX DEPORTES",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2704/image",
       "team1Name": "Como",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2689/image",
-      "team2Name": "Lecce"
+      "team2Name": "Lecce",
+      "telegramSent": true
     },
     "match_13981684": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
@@ -33,33 +41,55 @@
       "matchEndTime": "2026-03-01T03:15:00",
       "matchTime": "2026-03-01T01:15:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "beIN ENGLISH",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd&k1=d9623774ac5c8c351aafe97c5fe70267&k2=5164e6d05164a2d65fa8fcc962aa4861\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "CBS NETWORK",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd&k1=d1a163914db8ffad2c3e94f979896a0d&k2=9728800a3959aafdd5b0bcfbf3768811\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "FOX DEPORTES",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2697/image",
       "team1Name": "Inter",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2713/image",
-      "team2Name": "Genoa"
+      "team2Name": "Genoa",
+      "telegramSent": true
+    },
+    "match_13981685": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-03-01T19:00:00",
+      "matchTime": "2026-03-01T17:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2761/image",
+      "team1Name": "Cremonese",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2692/image",
+      "team2Name": "Milan"
+    },
+    "match_13981688": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-03-02T03:15:00",
+      "matchTime": "2026-03-02T01:15:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2702/image",
+      "team1Name": "Roma",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2687/image",
+      "team2Name": "Juventus"
+    },
+    "match_13981689": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-03-01T21:30:00",
+      "matchTime": "2026-03-01T19:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2793/image",
+      "team1Name": "Sassuolo",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2686/image",
+      "team2Name": "Atalanta"
+    },
+    "match_13981690": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "leagueTitle": "Serie A",
+      "matchEndTime": "2026-03-02T00:30:00",
+      "matchTime": "2026-03-01T22:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2696/image",
+      "team1Name": "Torino",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2699/image",
+      "team2Name": "Lazio"
     },
     "match_13981694": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
@@ -67,26 +97,11 @@
       "matchEndTime": "2026-03-01T00:30:00",
       "matchTime": "2026-02-28T22:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "beIN ENGLISH",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd&k1=d9623774ac5c8c351aafe97c5fe70267&k2=5164e6d05164a2d65fa8fcc962aa4861\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "CBS NETWORK",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2701/image",
       "team1Name": "Verona",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2714/image",
-      "team2Name": "Napoli"
+      "team2Name": "Napoli",
+      "telegramSent": true
     },
     "match_14023970": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -94,26 +109,44 @@
       "matchEndTime": "2026-02-28T20:00:00",
       "matchTime": "2026-02-28T18:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://cors-proxy.cooks.fyi/https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&k1=294b5761cefc22d0c6312939e13d8278&k2=52148f1042d238849f0a7813f1da8a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "TNT SPORTS",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "",
-          "link": "https://grand-s-v001.faggotsports.tv/out/v1/frofudrljocldrugudr295ifistlsw1w/mix-stream.m3u8|Referer=https://hmembeds.one/",
-          "name": "TNT SPORTS FHD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/60/image",
       "team1Name": "Bournemouth",
       "team2Logo": "https://api.sofascore.com/api/v1/team/41/image",
-      "team2Name": "Sunderland"
+      "team2Name": "Sunderland",
+      "telegramSent": true
+    },
+    "match_14023971": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-03-02T00:00:00",
+      "matchTime": "2026-03-01T22:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/42/image",
+      "team1Name": "Arsenal",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/38/image",
+      "team2Name": "Chelsea"
+    },
+    "match_14023972": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-03-01T21:30:00",
+      "matchTime": "2026-03-01T19:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/30/image",
+      "team1Name": "Brighton",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/14/image",
+      "team2Name": "Forest"
+    },
+    "match_14023973": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-03-01T21:30:00",
+      "matchTime": "2026-03-01T19:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/43/image",
+      "team1Name": "Fulham",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/33/image",
+      "team2Name": "Tottenham"
     },
     "match_14023974": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -124,7 +157,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/34/image",
       "team1Name": "Leeds",
       "team2Logo": "https://api.sofascore.com/api/v1/team/17/image",
-      "team2Name": "Man City"
+      "team2Name": "Man City",
+      "telegramSent": true
     },
     "match_14023975": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -132,19 +166,11 @@
       "matchEndTime": "2026-02-28T22:30:00",
       "matchTime": "2026-02-28T20:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://grand-s-v001.faggotsports.tv/out/v1/5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d/mix-stream.m3u8|Referer=https://hmembeds.one/",
-          "name": "SKY SPORTS FHD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/6/image",
       "team1Name": "Burnley",
       "team2Logo": "https://api.sofascore.com/api/v1/team/50/image",
-      "team2Name": "Brentford"
+      "team2Name": "Brentford",
+      "telegramSent": true
     },
     "match_14023976": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -152,47 +178,11 @@
       "matchEndTime": "2026-02-28T22:30:00",
       "matchTime": "2026-02-28T20:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd&k1=3501bd323a6a35c28eb7654bf298b9aa&k2=2db4c8089d627e1b2c480c57baa86a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "PSN SPORTS",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd&k1=96b67fa09140329a89b7a1ead134eda3&k2=c618d32c56cdc6cad8330eb98507ca3f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "NBC UNIVERSO",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "",
-          "link": "https://grand-s-v001.faggotsports.tv/out/v1/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d/mix-stream.m3u8|Referer=https://hmembeds.one/",
-          "name": "SKY SPORTS FHD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "",
-          "link": "https://plf1.ionisglide.space/playlist/45990/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "HD SERVER",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "",
-          "link": "https://daffodil.lifesharper.com/now.m3u8",
-          "name": "NOW SPORTS PL",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/44/image",
       "team1Name": "Liverpool",
       "team2Logo": "https://api.sofascore.com/api/v1/team/37/image",
-      "team2Name": "West Ham"
+      "team2Name": "West Ham",
+      "telegramSent": true
     },
     "match_14023977": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -200,40 +190,33 @@
       "matchEndTime": "2026-02-28T22:30:00",
       "matchTime": "2026-02-28T20:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://grand-s-v001.faggotsports.tv/out/v1/f1e2d3c4b5a698786543210fedcba987/mix-stream.m3u8|Referer=https://hmembeds.one/",
-          "name": "SKY SPORTS FHD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd&k1=3501bd323a6a35c28eb7654bf298b9aa&k2=2db4c8089d627e1b2c480c57baa86a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "PSN SPORTS",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "",
-          "link": "https://pfl4.ascendastro.space/playlist/45989/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "HD SERVER",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "",
-          "link": "https://601.lifesharper.com/newcastle.m3u8",
-          "name": "NOW SPORTS PL",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/39/image",
       "team1Name": "Newcastle",
       "team2Logo": "https://api.sofascore.com/api/v1/team/48/image",
-      "team2Name": "Everton"
+      "team2Name": "Everton",
+      "telegramSent": true
+    },
+    "match_14023978": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+      "leagueTitle": "Premier League",
+      "matchEndTime": "2026-03-01T21:30:00",
+      "matchTime": "2026-03-01T19:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/35/image",
+      "team1Name": "Man Utd",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/7/image",
+      "team2Name": "Crystal Palace"
+    },
+    "match_14032349": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
+      "leagueTitle": "Pro League",
+      "matchEndTime": "2026-03-01T20:00:00",
+      "matchTime": "2026-03-01T18:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2890/image",
+      "team1Name": "Genk",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2903/image",
+      "team2Name": "Gent"
     },
     "match_14032350": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
@@ -244,7 +227,19 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2889/image",
       "team1Name": "Royal Antwerp",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2895/image",
-      "team2Name": "St. Truidense"
+      "team2Name": "St. Truidense",
+      "telegramSent": true
+    },
+    "match_14032351": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
+      "leagueTitle": "Pro League",
+      "matchEndTime": "2026-03-02T01:00:00",
+      "matchTime": "2026-03-01T23:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2898/image",
+      "team1Name": "Charleroi",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2888/image",
+      "team2Name": "Club Brugge"
     },
     "match_14032354": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
@@ -255,7 +250,19 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/5044/image",
       "team1Name": "Mechelen",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2933/image",
-      "team2Name": "Zulte Waregem"
+      "team2Name": "Zulte Waregem",
+      "telegramSent": true
+    },
+    "match_14032358": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
+      "leagueTitle": "Pro League",
+      "matchEndTime": "2026-03-01T22:30:00",
+      "matchTime": "2026-03-01T20:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2893/image",
+      "team1Name": "Westerlo",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/4860/image",
+      "team2Name": "USG"
     },
     "match_14032425": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
@@ -266,7 +273,31 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2900/image",
       "team1Name": "Anderlecht",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2918/image",
-      "team2Name": "OH Leuven"
+      "team2Name": "OH Leuven",
+      "telegramSent": true
+    },
+    "match_14032427": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
+      "leagueTitle": "Pro League",
+      "matchEndTime": "2026-03-02T01:45:00",
+      "matchTime": "2026-03-01T23:45:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2929/image",
+      "team1Name": "Cercle Brugge",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/389232/image",
+      "team2Name": "Dender "
+    },
+    "match_14048754": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "leagueTitle": "Zimbabwe Women in New Zealand, 3 T20I Series",
+      "matchEndTime": "2026-03-01T12:45:00",
+      "matchTime": "2026-03-01T05:45:00",
+      "sportType": "CRICKET",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213115/image",
+      "team1Name": "NZ-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/417062/image",
+      "team2Name": "ZIM-W",
+      "telegramSent": true
     },
     "match_14059865": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -277,7 +308,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/9/image",
       "team1Name": "Birmingham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/36/image",
-      "team2Name": "Middlesbrough"
+      "team2Name": "Middlesbrough",
+      "telegramSent": true
     },
     "match_14059867": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -288,7 +320,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/47/image",
       "team1Name": "Charlton",
       "team2Logo": "https://api.sofascore.com/api/v1/team/64/image",
-      "team2Name": "Wrexham"
+      "team2Name": "Wrexham",
+      "telegramSent": true
     },
     "match_14059869": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -299,7 +332,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/11/image",
       "team1Name": "Coventry",
       "team2Logo": "https://api.sofascore.com/api/v1/team/29/image",
-      "team2Name": "Stoke"
+      "team2Name": "Stoke",
+      "telegramSent": true
     },
     "match_14059870": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -310,7 +344,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/32/image",
       "team1Name": "Ipswich",
       "team2Logo": "https://api.sofascore.com/api/v1/team/74/image",
-      "team2Name": "Swansea"
+      "team2Name": "Swansea",
+      "telegramSent": true
     },
     "match_14059871": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -321,7 +356,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/27/image",
       "team1Name": "Derby",
       "team2Logo": "https://api.sofascore.com/api/v1/team/46/image",
-      "team2Name": "Blackburn"
+      "team2Name": "Blackburn",
+      "telegramSent": true
     },
     "match_14059872": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -329,19 +365,11 @@
       "matchEndTime": "2026-02-28T20:00:00",
       "matchTime": "2026-02-28T18:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "beIN ENGLISH",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/31/image",
       "team1Name": "Leicester",
       "team2Logo": "https://api.sofascore.com/api/v1/team/263/image",
-      "team2Name": "Norwich"
+      "team2Name": "Norwich",
+      "telegramSent": true
     },
     "match_14059873": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -352,7 +380,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/95/image",
       "team1Name": "Oxford Utd",
       "team2Logo": "https://api.sofascore.com/api/v1/team/8/image",
-      "team2Name": "West Brom"
+      "team2Name": "West Brom",
+      "telegramSent": true
     },
     "match_14059874": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -363,7 +392,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2/image",
       "team1Name": "Portsmouth",
       "team2Logo": "https://api.sofascore.com/api/v1/team/96/image",
-      "team2Name": "Hull"
+      "team2Name": "Hull",
+      "telegramSent": true
     },
     "match_14059875": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -371,19 +401,11 @@
       "matchEndTime": "2026-02-28T22:30:00",
       "matchTime": "2026-02-28T20:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd&k1=0b42be2664d7e811d04f3e504e0924c5&k2=ae24090123b8c72ac5404dc152847cb8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "beIN ENGLISH",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/21/image",
       "team1Name": "Preston",
       "team2Logo": "https://api.sofascore.com/api/v1/team/25/image",
-      "team2Name": "Millwall"
+      "team2Name": "Millwall",
+      "telegramSent": true
     },
     "match_14059876": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -394,7 +416,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/12/image",
       "team1Name": "Sheffield Wed",
       "team2Logo": "https://api.sofascore.com/api/v1/team/45/image",
-      "team2Name": "Southampton"
+      "team2Name": "Southampton",
+      "telegramSent": true
     },
     "match_14059877": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
@@ -405,7 +428,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1/image",
       "team1Name": "QPR",
       "team2Logo": "https://api.sofascore.com/api/v1/team/15/image",
-      "team2Name": "Sheffield Utd"
+      "team2Name": "Sheffield Utd",
+      "telegramSent": true
     },
     "match_14060757": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -416,7 +440,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/77/image",
       "team1Name": "Barnet",
       "team2Logo": "https://api.sofascore.com/api/v1/team/68/image",
-      "team2Name": "Chesterfield"
+      "team2Name": "Chesterfield",
+      "telegramSent": true
     },
     "match_14060761": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -427,7 +452,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/97/image",
       "team1Name": "Barrow",
       "team2Logo": "https://api.sofascore.com/api/v1/team/20/image",
-      "team2Name": "Gillingham"
+      "team2Name": "Gillingham",
+      "telegramSent": true
     },
     "match_14060766": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -438,7 +464,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/180/image",
       "team1Name": "Bromley",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187/image",
-      "team2Name": "Accrington"
+      "team2Name": "Accrington",
+      "telegramSent": true
     },
     "match_14060771": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -449,7 +476,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/63/image",
       "team1Name": "Cambridge",
       "team2Logo": "https://api.sofascore.com/api/v1/team/4/image",
-      "team2Name": "MK Dons"
+      "team2Name": "MK Dons",
+      "telegramSent": true
     },
     "match_14060776": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -460,7 +488,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/66/image",
       "team1Name": "Colchester",
       "team2Logo": "https://api.sofascore.com/api/v1/team/37998/image",
-      "team2Name": "Salford"
+      "team2Name": "Salford",
+      "telegramSent": true
     },
     "match_14060781": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -471,7 +500,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/19/image",
       "team1Name": "Crewe",
       "team2Logo": "https://api.sofascore.com/api/v1/team/51/image",
-      "team2Name": "Tranmere"
+      "team2Name": "Tranmere",
+      "telegramSent": true
     },
     "match_14060786": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -482,7 +512,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/23959/image",
       "team1Name": "Fleetwood",
       "team2Logo": "https://api.sofascore.com/api/v1/team/79/image",
-      "team2Name": "Newport"
+      "team2Name": "Newport",
+      "telegramSent": true
     },
     "match_14060796": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -493,7 +524,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/56/image",
       "team1Name": "Notts County",
       "team2Logo": "https://api.sofascore.com/api/v1/team/18/image",
-      "team2Name": "Grimsby"
+      "team2Name": "Grimsby",
+      "telegramSent": true
     },
     "match_14060800": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -504,7 +536,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/65/image",
       "team1Name": "Oldham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/4875/image",
-      "team2Name": "Crawley"
+      "team2Name": "Crawley",
+      "telegramSent": true
     },
     "match_14060805": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -515,7 +548,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/82/image",
       "team1Name": "Shrewsbury",
       "team2Logo": "https://api.sofascore.com/api/v1/team/26/image",
-      "team2Name": "Walsall"
+      "team2Name": "Walsall",
+      "telegramSent": true
     },
     "match_14060810": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
@@ -526,7 +560,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/53/image",
       "team1Name": "Swindon",
       "team2Logo": "https://api.sofascore.com/api/v1/team/76/image",
-      "team2Name": "Bristol Rovers"
+      "team2Name": "Bristol Rovers",
+      "telegramSent": true
     },
     "match_14061216": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -537,7 +572,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/84/image",
       "team1Name": "Doncaster",
       "team2Logo": "https://api.sofascore.com/api/v1/team/61/image",
-      "team2Name": "Cardiff"
+      "team2Name": "Cardiff",
+      "telegramSent": true
     },
     "match_14061229": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -548,7 +584,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/86/image",
       "team1Name": "Exeter",
       "team2Logo": "https://api.sofascore.com/api/v1/team/5/image",
-      "team2Name": "Bolton"
+      "team2Name": "Bolton",
+      "telegramSent": true
     },
     "match_14061241": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -559,7 +596,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/83/image",
       "team1Name": "Leyton Orient",
       "team2Logo": "https://api.sofascore.com/api/v1/team/23/image",
-      "team2Name": "Barnsley"
+      "team2Name": "Barnsley",
+      "telegramSent": true
     },
     "match_14061253": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -570,7 +608,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/92/image",
       "team1Name": "Lincoln",
       "team2Logo": "https://api.sofascore.com/api/v1/team/67/image",
-      "team2Name": "Blackpool"
+      "team2Name": "Blackpool",
+      "telegramSent": true
     },
     "match_14061265": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -581,7 +620,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/70/image",
       "team1Name": "Mansfield",
       "team2Logo": "https://api.sofascore.com/api/v1/team/23957/image",
-      "team2Name": "Wimbledon"
+      "team2Name": "Wimbledon",
+      "telegramSent": true
     },
     "match_14061278": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -592,7 +632,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/57/image",
       "team1Name": "Northampton",
       "team2Logo": "https://api.sofascore.com/api/v1/team/54/image",
-      "team2Name": "Peterborough Utd"
+      "team2Name": "Peterborough Utd",
+      "telegramSent": true
     },
     "match_14061290": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -603,7 +644,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/55/image",
       "team1Name": "Port Vale",
       "team2Logo": "https://api.sofascore.com/api/v1/team/72/image",
-      "team2Name": "Luton"
+      "team2Name": "Luton",
+      "telegramSent": true
     },
     "match_14061303": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -614,7 +656,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/28/image",
       "team1Name": "Reading",
       "team2Logo": "https://api.sofascore.com/api/v1/team/22/image",
-      "team2Name": "Bradford"
+      "team2Name": "Bradford",
+      "telegramSent": true
     },
     "match_14061316": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -625,7 +668,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/13/image",
       "team1Name": "Rotherham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/71/image",
-      "team2Name": "Plymouth"
+      "team2Name": "Plymouth",
+      "telegramSent": true
     },
     "match_14061322": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -636,7 +680,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/133/image",
       "team1Name": "Stevenage",
       "team2Logo": "https://api.sofascore.com/api/v1/team/10/image",
-      "team2Name": "Stockport County"
+      "team2Name": "Stockport County",
+      "telegramSent": true
     },
     "match_14061328": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -647,7 +692,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/49/image",
       "team1Name": "Wigan",
       "team2Logo": "https://api.sofascore.com/api/v1/team/59/image",
-      "team2Name": "Huddersfield"
+      "team2Name": "Huddersfield",
+      "telegramSent": true
     },
     "match_14061334": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
@@ -658,7 +704,19 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/62/image",
       "team1Name": "Wycombe",
       "team2Logo": "https://api.sofascore.com/api/v1/team/134/image",
-      "team2Name": "Burton"
+      "team2Name": "Burton",
+      "telegramSent": true
+    },
+    "match_14062224": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "leagueTitle": "Bundesliga",
+      "matchEndTime": "2026-03-02T00:00:00",
+      "matchTime": "2026-03-01T22:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2674/image",
+      "team1Name": "Frankfurt",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2538/image",
+      "team2Name": "Freiburg"
     },
     "match_14062225": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
@@ -666,19 +724,11 @@
       "matchEndTime": "2026-03-01T01:00:00",
       "matchTime": "2026-02-28T23:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2673/image",
       "team1Name": "Dortmund",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2672/image",
-      "team2Name": "Bayern"
+      "team2Name": "Bayern",
+      "telegramSent": true
     },
     "match_14062226": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
@@ -686,19 +736,11 @@
       "matchEndTime": "2026-02-28T22:00:00",
       "matchTime": "2026-02-28T20:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/9gSZoyFska/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2527/image",
       "team1Name": "M'gladbach",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2547/image",
-      "team2Name": "Union Berlin"
+      "team2Name": "Union Berlin",
+      "telegramSent": true
     },
     "match_14062227": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
@@ -706,19 +748,22 @@
       "matchEndTime": "2026-02-28T22:00:00",
       "matchTime": "2026-02-28T20:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/8r59wy2BRApK/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2681/image",
       "team1Name": "Leverkusen",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2556/image",
-      "team2Name": "Mainz 05"
+      "team2Name": "Mainz 05",
+      "telegramSent": true
+    },
+    "match_14062229": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "leagueTitle": "Bundesliga",
+      "matchEndTime": "2026-03-02T02:00:00",
+      "matchTime": "2026-03-02T00:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2676/image",
+      "team1Name": "HSV",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/36360/image",
+      "team2Name": "Leipzig"
     },
     "match_14062230": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
@@ -726,19 +771,11 @@
       "matchEndTime": "2026-02-28T22:00:00",
       "matchTime": "2026-02-28T20:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2534/image",
       "team1Name": "Bremen",
       "team2Logo": "https://api.sofascore.com/api/v1/team/5885/image",
-      "team2Name": "Heidenheim"
+      "team2Name": "Heidenheim",
+      "telegramSent": true
     },
     "match_14062231": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
@@ -746,19 +783,22 @@
       "matchEndTime": "2026-02-28T22:00:00",
       "matchTime": "2026-02-28T20:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2569/image",
       "team1Name": "Hoffenheim",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2526/image",
-      "team2Name": "St. Pauli"
+      "team2Name": "St. Pauli",
+      "telegramSent": true
+    },
+    "match_14062234": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+      "leagueTitle": "Bundesliga",
+      "matchEndTime": "2026-03-01T22:00:00",
+      "matchTime": "2026-03-01T20:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2677/image",
+      "team1Name": "Stuttgart",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2524/image",
+      "team2Name": "Wolfsburg"
     },
     "match_14064850": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
@@ -769,7 +809,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1685/image",
       "team1Name": "Pau",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1678/image",
-      "team2Name": "Saint-Étienne"
+      "team2Name": "Saint-Étienne",
+      "telegramSent": true
     },
     "match_14065455": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -777,19 +818,11 @@
       "matchEndTime": "2026-02-28T19:30:00",
       "matchTime": "2026-02-28T17:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2573/image",
       "team1Name": "Kiel",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2598/image",
-      "team2Name": "Elversberg"
+      "team2Name": "Elversberg",
+      "telegramSent": true
     },
     "match_14065458": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -797,26 +830,44 @@
       "matchEndTime": "2026-02-28T19:30:00",
       "matchTime": "2026-02-28T17:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd&k1=335dad778109954503dcbb21dc92015f&k2=24bfd75d436cbf73168a2a2dccd40281\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "beIN ENGLISH",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2675/image",
       "team1Name": "Kaiserslautern",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2561/image",
-      "team2Name": "Paderborn"
+      "team2Name": "Paderborn",
+      "telegramSent": true
+    },
+    "match_14065459": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "leagueTitle": "2. Bundesliga",
+      "matchEndTime": "2026-03-01T20:00:00",
+      "matchTime": "2026-03-01T18:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2591/image",
+      "team1Name": "Magdeburg",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2553/image",
+      "team2Name": "Karlsruhe"
+    },
+    "match_14065460": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "leagueTitle": "2. Bundesliga",
+      "matchEndTime": "2026-03-01T20:00:00",
+      "matchTime": "2026-03-01T18:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2528/image",
+      "team1Name": "Hertha",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2523/image",
+      "team2Name": "Nürnberg"
+    },
+    "match_14065461": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+      "leagueTitle": "2. Bundesliga",
+      "matchEndTime": "2026-03-01T20:00:00",
+      "matchTime": "2026-03-01T18:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2557/image",
+      "team1Name": "Braunschweig",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2590/image",
+      "team2Name": "Münster"
     },
     "match_14065462": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -827,7 +878,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2551/image",
       "team1Name": "Fürth",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2530/image",
-      "team2Name": "Schalke"
+      "team2Name": "Schalke",
+      "telegramSent": true
     },
     "match_14065463": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -835,26 +887,11 @@
       "matchEndTime": "2026-02-28T19:30:00",
       "matchTime": "2026-02-28T17:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD6412/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "ELEVEN SPORTS",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/6v8yVbveVz4/index.m3u8",
-          "name": "SKY BUNDESLIGA SD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2540/image",
       "team1Name": "Bielefeld",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2541/image",
-      "team2Name": "Hannover"
+      "team2Name": "Hannover",
+      "telegramSent": true
     },
     "match_14081789": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -862,40 +899,11 @@
       "matchEndTime": "2026-02-28T22:45:00",
       "matchTime": "2026-02-28T20:45:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd&k1=620e51b82596475517a27aa425c52280&k2=2b9ba811e9c5aeafc8ae1b71cdca4d6a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "Laliga TV FHD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "FANCODE FHD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "",
-          "link": "https://daffodil.serverbandel.sbs/dep.m3u8",
-          "name": "ESPN DEPORTES",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "",
-          "link": "https://red7.astrovortex.space/playlist/45992/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "HD SERVER",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2817/image",
       "team1Name": "Barcelona",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2819/image",
-      "team2Name": "Villarreal"
+      "team2Name": "Villarreal",
+      "telegramSent": true
     },
     "match_14081790": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -903,26 +911,22 @@
       "matchEndTime": "2026-02-28T20:30:00",
       "matchTime": "2026-02-28T18:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd&k1=620e51b82596475517a27aa425c52280&k2=2b9ba811e9c5aeafc8ae1b71cdca4d6a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "Laliga TV FHD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        },
-        {
-          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "FANCODE FHD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2818/image",
       "team1Name": "Rayo Vallecano",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2825/image",
-      "team2Name": "Athletic Club"
+      "team2Name": "Athletic Club",
+      "telegramSent": true
+    },
+    "match_14081791": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "leagueTitle": "LaLiga",
+      "matchEndTime": "2026-03-02T01:00:00",
+      "matchTime": "2026-03-01T23:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2816/image",
+      "team1Name": "Real Betis",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2833/image",
+      "team2Name": "Sevilla"
     },
     "match_14081795": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -933,7 +937,19 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2851/image",
       "team1Name": "Real Oviedo",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2836/image",
-      "team2Name": "Atl. Madrid"
+      "team2Name": "Atl. Madrid",
+      "telegramSent": true
+    },
+    "match_14081797": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "leagueTitle": "LaLiga",
+      "matchEndTime": "2026-03-02T03:30:00",
+      "matchTime": "2026-03-02T01:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/24264/image",
+      "team1Name": "Girona",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2821/image",
+      "team2Name": "Celta"
     },
     "match_14081818": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -941,19 +957,33 @@
       "matchEndTime": "2026-03-01T01:00:00",
       "matchTime": "2026-02-28T23:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2826/image",
       "team1Name": "Mallorca",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2824/image",
-      "team2Name": "Real Sociedad"
+      "team2Name": "Real Sociedad",
+      "telegramSent": true
+    },
+    "match_14081819": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "leagueTitle": "LaLiga",
+      "matchEndTime": "2026-03-01T20:30:00",
+      "matchTime": "2026-03-01T18:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2846/image",
+      "team1Name": "Elche",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2814/image",
+      "team2Name": "Espanyol"
+    },
+    "match_14083336": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-03-02T01:00:00",
+      "matchTime": "2026-03-01T23:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2868/image",
+      "team1Name": "Cultural Leonesa",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/6577/image",
+      "team2Name": "Las Palmas"
     },
     "match_14083340": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -961,19 +991,44 @@
       "matchEndTime": "2026-02-28T22:45:00",
       "matchTime": "2026-02-28T20:45:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd&k1=d69894c7b729c5d1e85893e5e6cfcb0f&k2=db0d53f871f5d2ef91d3a112c7ec9f30\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "Laliga Hypermotion ES",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2815/image",
       "team1Name": "Real Zaragoza",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2854/image",
-      "team2Name": "Burgos"
+      "team2Name": "Burgos",
+      "telegramSent": true
+    },
+    "match_14083344": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-03-02T03:30:00",
+      "matchTime": "2026-03-02T01:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2839/image",
+      "team1Name": "Eibar",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/4488/image",
+      "team2Name": "Cádiz"
+    },
+    "match_14083347": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-03-01T22:45:00",
+      "matchTime": "2026-03-01T20:45:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/35092/image",
+      "team1Name": "Mirandés",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2869/image",
+      "team2Name": "Ceuta"
+    },
+    "match_14083349": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-03-01T20:30:00",
+      "matchTime": "2026-03-01T18:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/24360/image",
+      "team1Name": "Real Sociedad B U21",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2832/image",
+      "team2Name": "Deportivo"
     },
     "match_14083353": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -981,19 +1036,33 @@
       "matchEndTime": "2026-03-01T01:00:00",
       "matchTime": "2026-02-28T23:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2831/image",
       "team1Name": "Real Valladolid",
       "team2Logo": "https://api.sofascore.com/api/v1/team/24265/image",
-      "team2Name": "Huesca"
+      "team2Name": "Huesca",
+      "telegramSent": true
+    },
+    "match_14083356": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+      "leagueTitle": "LaLiga 2",
+      "matchEndTime": "2026-03-01T22:45:00",
+      "matchTime": "2026-03-01T20:45:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2852/image",
+      "team1Name": "Sporting",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2845/image",
+      "team2Name": "Leganés"
+    },
+    "match_14083591": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+      "leagueTitle": "LaLiga",
+      "matchEndTime": "2026-03-01T22:45:00",
+      "matchTime": "2026-03-01T20:45:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2828/image",
+      "team1Name": "Valencia",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2820/image",
+      "team2Name": "Osasuna"
     },
     "match_14083813": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -1004,7 +1073,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/5067/image",
       "team1Name": "Castellón",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2835/image",
-      "team2Name": "R. Racing Club"
+      "team2Name": "R. Racing Club",
+      "telegramSent": true
     },
     "match_14083814": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -1012,19 +1082,11 @@
       "matchEndTime": "2026-03-01T01:00:00",
       "matchTime": "2026-02-28T23:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/33779/image",
       "team1Name": "Granada",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2830/image",
-      "team2Name": "Málaga"
+      "team2Name": "Málaga",
+      "telegramSent": true
     },
     "match_14109820": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -1032,19 +1094,11 @@
       "matchEndTime": "2026-03-01T00:30:00",
       "matchTime": "2026-02-28T22:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8",
-          "name": "beIN SPORTS",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3054/image",
       "team1Name": "Göztepe",
       "team2Logo": "https://api.sofascore.com/api/v1/team/7040/image",
-      "team2Name": "Eyüpspor"
+      "team2Name": "Eyüpspor",
+      "telegramSent": true
     },
     "match_14109822": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -1052,19 +1106,11 @@
       "matchEndTime": "2026-02-28T20:30:00",
       "matchTime": "2026-02-28T18:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3065/image",
       "team1Name": "Kocaelispor",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3050/image",
-      "team2Name": "Beşiktaş"
+      "team2Name": "Beşiktaş",
+      "telegramSent": true
     },
     "match_14109823": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -1072,19 +1118,33 @@
       "matchEndTime": "2026-03-01T00:30:00",
       "matchTime": "2026-02-28T22:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
-          "name": "beIN SPORTS",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3061/image",
       "team1Name": "Galatasaray",
       "team2Logo": "https://api.sofascore.com/api/v1/team/6362/image",
-      "team2Name": "Alanyaspor"
+      "team2Name": "Alanyaspor",
+      "telegramSent": true
+    },
+    "match_14109825": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "leagueTitle": "Trendyol Süper Lig",
+      "matchEndTime": "2026-03-02T00:30:00",
+      "matchTime": "2026-03-01T22:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3053/image",
+      "team1Name": "Samsunspor",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5138/image",
+      "team2Name": "Gaziantep"
+    },
+    "match_14109826": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "leagueTitle": "Trendyol Süper Lig",
+      "matchEndTime": "2026-03-02T00:30:00",
+      "matchTime": "2026-03-01T22:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3056/image",
+      "team1Name": "Antalyaspor",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3052/image",
+      "team2Name": "Fenerbahçe"
     },
     "match_14109827": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -1092,19 +1152,22 @@
       "matchEndTime": "2026-02-28T18:00:00",
       "matchTime": "2026-02-28T16:00:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8",
-          "name": "beIN SPORTS",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/6063/image",
       "team1Name": "Kasımpaşa",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3064/image",
-      "team2Name": "Rizespor"
+      "team2Name": "Rizespor",
+      "telegramSent": true
+    },
+    "match_14109828": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+      "leagueTitle": "Trendyol Süper Lig",
+      "matchEndTime": "2026-03-01T20:30:00",
+      "matchTime": "2026-03-01T18:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/7802/image",
+      "team1Name": "Gençlerbirliği",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3072/image",
+      "team2Name": "Kayserispor"
     },
     "match_14167877": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -1115,7 +1178,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1662/image",
       "team1Name": "Le Havre",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1644/image",
-      "team2Name": "PSG"
+      "team2Name": "PSG",
+      "telegramSent": true
     },
     "match_14167879": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -1126,7 +1190,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/1658/image",
       "team1Name": "Rennes",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1681/image",
-      "team2Name": "Toulouse"
+      "team2Name": "Toulouse",
+      "telegramSent": true
     },
     "match_14167881": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -1134,19 +1199,66 @@
       "matchEndTime": "2026-03-01T01:30:00",
       "matchTime": "2026-02-28T23:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD2083/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "Ligue1+",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1653/image",
       "team1Name": "AS Monaco",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1684/image",
-      "team2Name": "Angers"
+      "team2Name": "Angers",
+      "telegramSent": true
+    },
+    "match_14167883": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "leagueTitle": "Ligue 1",
+      "matchEndTime": "2026-03-01T23:45:00",
+      "matchTime": "2026-03-01T21:45:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1656/image",
+      "team1Name": "Lorient",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1646/image",
+      "team2Name": "Auxerre"
+    },
+    "match_14167885": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "leagueTitle": "Ligue 1",
+      "matchEndTime": "2026-03-01T23:45:00",
+      "matchTime": "2026-03-01T21:45:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1651/image",
+      "team1Name": "Metz",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1715/image",
+      "team2Name": "Brest"
+    },
+    "match_14167887": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "leagueTitle": "Ligue 1",
+      "matchEndTime": "2026-03-01T23:45:00",
+      "matchTime": "2026-03-01T21:45:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1643/image",
+      "team1Name": "Lille",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1647/image",
+      "team2Name": "Nantes"
+    },
+    "match_14167889": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "leagueTitle": "Ligue 1",
+      "matchEndTime": "2026-03-01T21:30:00",
+      "matchTime": "2026-03-01T19:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/6070/image",
+      "team1Name": "Paris",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1661/image",
+      "team2Name": "Nice"
+    },
+    "match_14167894": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "leagueTitle": "Ligue 1",
+      "matchEndTime": "2026-03-02T03:15:00",
+      "matchTime": "2026-03-02T01:15:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/1641/image",
+      "team1Name": "Marseille",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/1649/image",
+      "team2Name": "Lyon"
     },
     "match_14198514": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -1157,7 +1269,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3701/image",
       "team1Name": "Rangers",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3697/image",
-      "team2Name": "Penguins"
+      "team2Name": "Penguins",
+      "telegramSent": true
     },
     "match_14201353": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -1168,7 +1281,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3696/image",
       "team1Name": "Sharks",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3686/image",
-      "team2Name": "Oilers"
+      "team2Name": "Oilers",
+      "telegramSent": true
     },
     "match_14201354": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -1179,7 +1293,20 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3699/image",
       "team1Name": "Flyers",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3677/image",
-      "team2Name": "Bruins"
+      "team2Name": "Bruins",
+      "telegramSent": true
+    },
+    "match_14201355": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3688/image",
+      "team1Name": "Kings",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3679/image",
+      "team2Name": "Flames",
+      "telegramSent": true
     },
     "match_14201356": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -1190,7 +1317,44 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3682/image",
       "team1Name": "Avalanche",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3681/image",
-      "team2Name": "Blackhawks"
+      "team2Name": "Blackhawks",
+      "telegramSent": true
+    },
+    "match_14201357": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3693/image",
+      "team1Name": "Maple Leafs",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3700/image",
+      "team2Name": "Senators",
+      "telegramSent": true
+    },
+    "match_14201358": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3680/image",
+      "team1Name": "Hurricanes",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3685/image",
+      "team2Name": "Red Wings",
+      "telegramSent": true
+    },
+    "match_14201359": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3694/image",
+      "team1Name": "Lightning",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3678/image",
+      "team2Name": "Sabres",
+      "telegramSent": true
     },
     "match_14201360": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -1201,7 +1365,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3683/image",
       "team1Name": "Blue Jackets",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3703/image",
-      "team2Name": "Islanders"
+      "team2Name": "Islanders",
+      "telegramSent": true
     },
     "match_14201361": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
@@ -1212,7 +1377,99 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3695/image",
       "team1Name": "Blues",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3704/image",
-      "team2Name": "Devils"
+      "team2Name": "Devils",
+      "telegramSent": true
+    },
+    "match_14201362": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3690/image",
+      "team1Name": "Canadiens",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3691/image",
+      "team2Name": "Capitals",
+      "telegramSent": true
+    },
+    "match_14201363": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T08:30:00",
+      "matchTime": "2026-03-01T06:30:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3684/image",
+      "team1Name": "Stars",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3705/image",
+      "team2Name": "Predators",
+      "telegramSent": true
+    },
+    "match_14201364": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-01T10:30:00",
+      "matchTime": "2026-03-01T08:30:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/381707/image",
+      "team1Name": "Kraken",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3692/image",
+      "team2Name": "Canucks",
+      "telegramSent": true
+    },
+    "match_14201365": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-02T01:30:00",
+      "matchTime": "2026-03-01T23:30:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3697/image",
+      "team1Name": "Penguins",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/257523/image",
+      "team2Name": "Golden Knights"
+    },
+    "match_14201366": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-02T04:30:00",
+      "matchTime": "2026-03-02T02:30:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/530472/image",
+      "team1Name": "Mammoth",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3681/image",
+      "team2Name": "Blackhawks"
+    },
+    "match_14201367": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-02T07:00:00",
+      "matchTime": "2026-03-02T05:00:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3703/image",
+      "team1Name": "Islanders",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3687/image",
+      "team2Name": "Panthers"
+    },
+    "match_14201368": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-02T05:30:00",
+      "matchTime": "2026-03-02T03:30:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3689/image",
+      "team1Name": "Wild",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3695/image",
+      "team2Name": "Blues"
+    },
+    "match_14201370": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+      "leagueTitle": "NHL",
+      "matchEndTime": "2026-03-02T04:30:00",
+      "matchTime": "2026-03-02T02:30:00",
+      "sportType": "ICE-HOCKEY",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3696/image",
+      "team1Name": "Sharks",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3676/image",
+      "team2Name": "Jets"
     },
     "match_14317559": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
@@ -1223,7 +1480,87 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2730/image",
       "team1Name": "Avellino",
       "team2Logo": "https://api.sofascore.com/api/v1/team/5324/image",
-      "team2Name": "Juve Stabia"
+      "team2Name": "Juve Stabia",
+      "telegramSent": true
+    },
+    "match_14317568": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-03-01T21:30:00",
+      "matchTime": "2026-03-01T19:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2796/image",
+      "team1Name": "Catanzaro",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2801/image",
+      "team2Name": "Frosinone"
+    },
+    "match_14317723": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-03-01T23:45:00",
+      "matchTime": "2026-03-01T21:45:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2770/image",
+      "team1Name": "Mantova",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2745/image",
+      "team2Name": "Carrarese"
+    },
+    "match_14317732": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+      "leagueTitle": "Serie B",
+      "matchEndTime": "2026-03-01T21:30:00",
+      "matchTime": "2026-03-01T19:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/7935/image",
+      "team1Name": "Pescara",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2715/image",
+      "team2Name": "Palermo"
+    },
+    "match_14326655": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
+      "leagueTitle": "AFC Asian Cup, Women, Group A",
+      "matchEndTime": "2026-03-01T16:30:00",
+      "matchTime": "2026-03-01T14:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/7410/image",
+      "team1Name": "Australia",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/195588/image",
+      "team2Name": "Philippines"
+    },
+    "match_14441782": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-01T10:00:00",
+      "matchTime": "2026-03-01T08:00:00",
+      "sportType": "BASKETBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3434/image",
+      "team1Name": "Jazz",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5539/image",
+      "team2Name": "Pelicans",
+      "telegramSent": true
+    },
+    "match_14441808": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T05:30:00",
+      "matchTime": "2026-03-02T03:30:00",
+      "sportType": "BASKETBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3419/image",
+      "team1Name": "Pacers",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3415/image",
+      "team2Name": "Grizzlies"
+    },
+    "match_14441894": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-01T07:30:00",
+      "matchTime": "2026-03-01T05:30:00",
+      "sportType": "BASKETBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3431/image",
+      "team1Name": "Wizards",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3433/image",
+      "team2Name": "Raptors",
+      "telegramSent": true
     },
     "match_14442173": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -1234,7 +1571,86 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3435/image",
       "team1Name": "Heat",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3412/image",
-      "team2Name": "Rockets"
+      "team2Name": "Rockets",
+      "telegramSent": true
+    },
+    "match_14442314": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T04:00:00",
+      "matchTime": "2026-03-02T02:00:00",
+      "sportType": "BASKETBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3436/image",
+      "team1Name": "Nets",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3432/image",
+      "team2Name": "Cavaliers"
+    },
+    "match_14442380": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T01:30:00",
+      "matchTime": "2026-03-01T23:30:00",
+      "sportType": "BASKETBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3421/image",
+      "team1Name": "Knicks",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3429/image",
+      "team2Name": "Spurs"
+    },
+    "match_14442402": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T04:00:00",
+      "matchTime": "2026-03-02T02:00:00",
+      "sportType": "BASKETBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3409/image",
+      "team1Name": "Bulls",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3410/image",
+      "team2Name": "Bucks"
+    },
+    "match_14442426": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T06:30:00",
+      "matchTime": "2026-03-02T04:30:00",
+      "sportType": "BASKETBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3437/image",
+      "team1Name": "Magic",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3424/image",
+      "team2Name": "Pistons"
+    },
+    "match_14442484": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T06:30:00",
+      "matchTime": "2026-03-02T04:30:00",
+      "sportType": "BASKETBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3423/image",
+      "team1Name": "Hawks",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3414/image",
+      "team2Name": "Trail Blazers"
+    },
+    "match_14442519": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-02T04:00:00",
+      "matchTime": "2026-03-02T02:00:00",
+      "sportType": "BASKETBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3417/image",
+      "team1Name": "Nuggets",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3426/image",
+      "team2Name": "Timberwolves"
+    },
+    "match_14442544": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
+      "leagueTitle": "NBA",
+      "matchEndTime": "2026-03-01T09:00:00",
+      "matchTime": "2026-03-01T07:00:00",
+      "sportType": "BASKETBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/3428/image",
+      "team1Name": "Warriors",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/3427/image",
+      "team2Name": "Lakers",
+      "telegramSent": true
     },
     "match_14442554": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/132/image/dark",
@@ -1245,7 +1661,21 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/3430/image",
       "team1Name": "Hornets",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3414/image",
-      "team2Name": "Trail Blazers"
+      "team2Name": "Trail Blazers",
+      "telegramSent": true
+    },
+    "match_14671742": {
+      "isStar": true,
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+      "leagueTitle": "A-League Men",
+      "matchEndTime": "2026-02-28T14:30",
+      "matchTime": "2026-02-28T12:30",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/5968/image",
+      "team1Name": "Brisbane Roar",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2945/image",
+      "team2Name": "Perth Glory",
+      "telegramSent": true
     },
     "match_14671744": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
@@ -1253,17 +1683,23 @@
       "matchEndTime": "2026-02-28T16:05:00",
       "matchTime": "2026-02-28T14:05:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "link": "<iframe src=\"https://sportify-tv.github.io/Player-/?play=https://tg-iavnnnnnn.vercel.app/playlist/139422-ENGLISH.m3u8\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "FANCODE",
-          "source": "admin"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/371682/image",
       "team1Name": "Macarthur",
       "team2Logo": "https://api.sofascore.com/api/v1/team/72926/image",
-      "team2Name": "Western Sydney"
+      "team2Name": "Western Sydney",
+      "telegramSent": true
+    },
+    "match_14671745": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+      "leagueTitle": "A-League Men",
+      "matchEndTime": "2026-03-01T09:30:00",
+      "matchTime": "2026-03-01T07:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/7568/image",
+      "team1Name": "Wellington",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/5971/image",
+      "team2Name": "Sydney FC",
+      "telegramSent": true
     },
     "match_14773751": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -1271,19 +1707,11 @@
       "matchEndTime": "2026-03-01T02:30:00",
       "matchTime": "2026-03-01T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "https://pl3.wecanfix4.space/playlist/46010/load-playlist?|Referer=https://gooz.aapmains.net",
-          "name": "FOX SOCCER+",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/168094/image",
       "team1Name": "Al-Fayha",
       "team2Logo": "https://api.sofascore.com/api/v1/team/23400/image",
-      "team2Name": "Al-Nassr"
+      "team2Name": "Al-Nassr",
+      "telegramSent": true
     },
     "match_14773755": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -1291,19 +1719,11 @@
       "matchEndTime": "2026-03-01T02:30:00",
       "matchTime": "2026-03-01T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD6737/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "Thmanyah - FHD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/395831/image",
       "team1Name": "Al-Najma",
       "team2Logo": "https://api.sofascore.com/api/v1/team/336456/image",
-      "team2Name": "Al-Okhdood"
+      "team2Name": "Al-Okhdood",
+      "telegramSent": true
     },
     "match_14773757": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -1311,19 +1731,11 @@
       "matchEndTime": "2026-03-01T02:30:00",
       "matchTime": "2026-03-01T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD1451/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "Thmanyah - FHD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/56027/image",
       "team1Name": "Al-Qadsiah",
       "team2Logo": "https://api.sofascore.com/api/v1/team/56021/image",
-      "team2Name": "Al-Taawoun"
+      "team2Name": "Al-Taawoun",
+      "telegramSent": true
     },
     "match_14773760": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -1331,19 +1743,69 @@
       "matchEndTime": "2026-03-01T02:30:00",
       "matchTime": "2026-03-01T00:30:00",
       "sportType": "FOOTBALL",
-      "streamLinks": [
-        {
-          "api": "",
-          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD1403/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
-          "name": "Thmanyah - FHD",
-          "source": "SPORTIX",
-          "type": "Direct"
-        }
-      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/530631/image",
       "team1Name": "Neom SC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/269199/image",
-      "team2Name": "Al-Kholood"
+      "team2Name": "Al-Kholood",
+      "telegramSent": true
+    },
+    "match_15137904": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-03-01T10:00:00",
+      "matchTime": "2026-03-01T08:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/22010/image",
+      "team1Name": "Vancouver",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/7080/image",
+      "team2Name": "Toronto",
+      "telegramSent": true
+    },
+    "match_15137907": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-03-01T11:00:00",
+      "matchTime": "2026-03-01T09:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2513/image",
+      "team1Name": "LA Galaxy",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/404108/image",
+      "team2Name": "Charlotte",
+      "telegramSent": true
+    },
+    "match_15137910": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-03-02T05:00:00",
+      "matchTime": "2026-03-02T03:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/39833/image",
+      "team1Name": "Philadelphia",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187643/image",
+      "team2Name": "NY City"
+    },
+    "match_15137929": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-03-02T03:00:00",
+      "matchTime": "2026-03-02T01:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/377973/image",
+      "team1Name": "Austin",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2502/image",
+      "team2Name": "DC United"
+    },
+    "match_15137934": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-03-01T09:00:00",
+      "matchTime": "2026-03-01T07:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2509/image",
+      "team1Name": "Kansas City",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/2504/image",
+      "team2Name": "Columbus",
+      "telegramSent": true
     },
     "match_15137938": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -1354,7 +1816,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2506/image",
       "team1Name": "NY Red Bulls",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2511/image",
-      "team2Name": "New England"
+      "team2Name": "New England",
+      "telegramSent": true
     },
     "match_15137939": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -1365,7 +1828,20 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2505/image",
       "team1Name": "Chicago",
       "team2Logo": "https://api.sofascore.com/api/v1/team/22006/image",
-      "team2Name": "Montréal"
+      "team2Name": "Montréal",
+      "telegramSent": true
+    },
+    "match_15137940": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-03-01T08:00:00",
+      "matchTime": "2026-03-01T06:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/21825/image",
+      "team1Name": "San Jose",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/243211/image",
+      "team2Name": "Atlanta",
+      "telegramSent": true
     },
     "match_15137941": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -1376,7 +1852,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/2510/image",
       "team1Name": "Colorado",
       "team2Logo": "https://api.sofascore.com/api/v1/team/22007/image",
-      "team2Name": "Portland"
+      "team2Name": "Portland",
+      "telegramSent": true
     },
     "match_15137942": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -1387,7 +1864,44 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/41618/image",
       "team1Name": "Minnesota",
       "team2Logo": "https://api.sofascore.com/api/v1/team/215167/image",
-      "team2Name": "Cincinnati"
+      "team2Name": "Cincinnati",
+      "telegramSent": true
+    },
+    "match_15137943": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-03-01T09:00:00",
+      "matchTime": "2026-03-01T07:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2512/image",
+      "team1Name": "Dallas",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/337612/image",
+      "team2Name": "Nashville",
+      "telegramSent": true
+    },
+    "match_15137946": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-03-01T08:00:00",
+      "matchTime": "2026-03-01T06:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/5133/image",
+      "team1Name": "Salt Lake",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/22009/image",
+      "team2Name": "Seattle",
+      "telegramSent": true
+    },
+    "match_15137951": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+      "leagueTitle": "MLS",
+      "matchEndTime": "2026-03-01T09:00:00",
+      "matchTime": "2026-03-01T07:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/2508/image",
+      "team1Name": "Houston",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/274650/image",
+      "team2Name": "Los Angeles",
+      "telegramSent": true
     },
     "match_15437280": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
@@ -1398,29 +1912,90 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/213120/image",
       "team1Name": "WI-W",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187806/image",
+      "team2Name": "SL-W",
+      "telegramSent": true
+    },
+    "match_15437281": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+      "leagueTitle": "Sri Lanka Women in West Indies, 3 T20I Series",
+      "matchEndTime": "2026-03-02T05:30:00",
+      "matchTime": "2026-03-01T22:30:00",
+      "sportType": "CRICKET",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/213120/image",
+      "team1Name": "WI-W",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187806/image",
       "team2Name": "SL-W"
     },
-    "match_15508333": {
+    "match_15508305": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
       "leagueTitle": "Super League",
-      "matchEndTime": "2026-02-28T19:00:00",
-      "matchTime": "2026-02-28T17:00:00",
+      "matchEndTime": "2026-03-01T19:00:00",
+      "matchTime": "2026-03-01T17:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/174592/image",
+      "team1Name": "Odisha",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/174590/image",
+      "team2Name": "Chennaiyin"
+    },
+    "match_15508319": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+      "leagueTitle": "Super League",
+      "matchEndTime": "2026-03-01T21:30:00",
+      "matchTime": "2026-03-01T19:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/174600/image",
+      "team1Name": "Mumbai City",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/174602/image",
+      "team2Name": "NorthEast Utd"
+    },
+    "match_15508333": {
+      "isStar": true,
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+      "leagueTitle": "Super League",
+      "matchEndTime": "2026-02-28T19:00",
+      "matchTime": "2026-02-28T17:00",
       "sportType": "FOOTBALL",
       "team1Logo": "https://api.sofascore.com/api/v1/team/174598/image",
       "team1Name": "Kerala",
       "team2Logo": "https://api.sofascore.com/api/v1/team/494686/image",
-      "team2Name": "Inter Kashi FC"
+      "team2Name": "Inter Kashi FC",
+      "telegramSent": true
     },
     "match_15514062": {
+      "isStar": true,
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1900/image/dark",
       "leagueTitle": "Super League",
-      "matchEndTime": "2026-02-28T21:30:00",
-      "matchTime": "2026-02-28T19:30:00",
+      "matchEndTime": "2026-02-28T21:30",
+      "matchTime": "2026-02-28T19:30",
       "sportType": "FOOTBALL",
       "team1Logo": "https://api.sofascore.com/api/v1/team/370834/image",
       "team1Name": "Mohun Bagan",
       "team2Logo": "https://api.sofascore.com/api/v1/team/118660/image",
-      "team2Name": "Mohammedan"
+      "team2Name": "Mohammedan",
+      "telegramSent": true
+    },
+    "match_15554895": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "leagueTitle": "ICC Men's T20 World Cup, Super 8, Group 1",
+      "matchEndTime": "2026-03-02T02:00:00",
+      "matchTime": "2026-03-01T19:00:00",
+      "sportType": "CRICKET",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187765/image",
+      "team1Name": "IND",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187760/image",
+      "team2Name": "WI"
+    },
+    "match_15558060": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+      "leagueTitle": "Kuwait in Hong Kong, China, 4 T20I Series",
+      "matchEndTime": "2026-03-01T17:45:00",
+      "matchTime": "2026-03-01T10:45:00",
+      "sportType": "CRICKET",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187774/image",
+      "team1Name": "HK",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187773/image",
+      "team2Name": "KUW",
+      "telegramSent": true
     },
     "match_15558063": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
@@ -1431,7 +2006,19 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187774/image",
       "team1Name": "HK",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187773/image",
-      "team2Name": "KUW"
+      "team2Name": "KUW",
+      "telegramSent": true
+    },
+    "match_15558658": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/848/image/dark",
+      "leagueTitle": "I-League",
+      "matchEndTime": "2026-03-01T18:00:00",
+      "matchTime": "2026-03-01T16:00:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/34217/image",
+      "team1Name": "Dempo",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/245075/image",
+      "team2Name": "Real Kashmir"
     },
     "match_15558668": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/848/image/dark",
@@ -1442,7 +2029,30 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/936343/image",
       "team1Name": "Diamond Harbour FC",
       "team2Logo": "https://api.sofascore.com/api/v1/team/403570/image",
-      "team2Name": "Sreenidi Deccan"
+      "team2Name": "Sreenidi Deccan",
+      "telegramSent": true
+    },
+    "match_15558669": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/848/image/dark",
+      "leagueTitle": "I-League",
+      "matchEndTime": "2026-03-01T20:30:00",
+      "matchTime": "2026-03-01T18:30:00",
+      "sportType": "FOOTBALL",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/58741/image",
+      "team1Name": "Shillong",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/387698/image",
+      "team2Name": "Rajasthan United FC"
+    },
+    "match_15560906": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
+      "leagueTitle": "ICC Men's T20 World Cup, Super 8, Group 1",
+      "matchEndTime": "2026-03-01T22:00:00",
+      "matchTime": "2026-03-01T15:00:00",
+      "sportType": "CRICKET",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/187745/image",
+      "team1Name": "ZIM",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/187747/image",
+      "team2Name": "SA"
     },
     "match_15569679": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/11185/image/dark",
@@ -1453,7 +2063,8 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/187756/image",
       "team1Name": "SL",
       "team2Logo": "https://api.sofascore.com/api/v1/team/187754/image",
-      "team2Name": "PAK"
+      "team2Name": "PAK",
+      "telegramSent": true
     },
     "match_15631049": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/32398/image/dark",
@@ -1464,7 +2075,20 @@
       "team1Logo": "https://api.sofascore.com/api/v1/team/445296/image",
       "team1Name": "JPN",
       "team2Logo": "https://api.sofascore.com/api/v1/team/412036/image",
-      "team2Name": "BRN"
+      "team2Name": "BRN",
+      "telegramSent": true
+    },
+    "match_15631052": {
+      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/32398/image/dark",
+      "leagueTitle": "Quadrangular T20I Series in Thailand, Playoffs",
+      "matchEndTime": "2026-02-28T14:30:00",
+      "matchTime": "2026-02-28T07:30:00",
+      "sportType": "CRICKET",
+      "team1Logo": "https://api.sofascore.com/api/v1/team/419423/image",
+      "team1Name": "THA",
+      "team2Logo": "https://api.sofascore.com/api/v1/team/419424/image",
+      "team2Name": "BHU",
+      "telegramSent": true
     }
   }
 }
