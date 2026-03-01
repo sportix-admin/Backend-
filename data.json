@@ -53,6 +53,15 @@
       "matchEndTime": "2026-03-01T19:00:00",
       "matchTime": "2026-03-01T17:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2761/image",
       "team1Name": "Cremonese",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2692/image",
@@ -64,6 +73,15 @@
       "matchEndTime": "2026-03-02T03:15:00",
       "matchTime": "2026-03-02T01:15:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2702/image",
       "team1Name": "Roma",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2687/image",
@@ -75,6 +93,15 @@
       "matchEndTime": "2026-03-01T21:30:00",
       "matchTime": "2026-03-01T19:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2793/image",
       "team1Name": "Sassuolo",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2686/image",
@@ -86,6 +113,15 @@
       "matchEndTime": "2026-03-02T00:30:00",
       "matchTime": "2026-03-01T22:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2696/image",
       "team1Name": "Torino",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2699/image",
@@ -121,6 +157,15 @@
       "matchEndTime": "2026-03-02T00:00:00",
       "matchTime": "2026-03-01T22:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/42/image",
       "team1Name": "Arsenal",
       "team2Logo": "https://api.sofascore.com/api/v1/team/38/image",
@@ -132,6 +177,15 @@
       "matchEndTime": "2026-03-01T21:30:00",
       "matchTime": "2026-03-01T19:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/30/image",
       "team1Name": "Brighton",
       "team2Logo": "https://api.sofascore.com/api/v1/team/14/image",
@@ -143,6 +197,15 @@
       "matchEndTime": "2026-03-01T21:30:00",
       "matchTime": "2026-03-01T19:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/43/image",
       "team1Name": "Fulham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/33/image",
@@ -713,6 +776,15 @@
       "matchEndTime": "2026-03-02T00:00:00",
       "matchTime": "2026-03-01T22:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2674/image",
       "team1Name": "Frankfurt",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2538/image",
@@ -795,6 +867,15 @@
       "matchEndTime": "2026-03-01T22:00:00",
       "matchTime": "2026-03-01T20:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2677/image",
       "team1Name": "Stuttgart",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2524/image",
@@ -842,6 +923,15 @@
       "matchEndTime": "2026-03-01T20:00:00",
       "matchTime": "2026-03-01T18:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2591/image",
       "team1Name": "Magdeburg",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2553/image",
@@ -853,6 +943,15 @@
       "matchEndTime": "2026-03-01T20:00:00",
       "matchTime": "2026-03-01T18:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2528/image",
       "team1Name": "Hertha",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2523/image",
@@ -864,6 +963,15 @@
       "matchEndTime": "2026-03-01T20:00:00",
       "matchTime": "2026-03-01T18:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2557/image",
       "team1Name": "Braunschweig",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2590/image",
@@ -923,6 +1031,15 @@
       "matchEndTime": "2026-03-02T01:00:00",
       "matchTime": "2026-03-01T23:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2816/image",
       "team1Name": "Real Betis",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2833/image",
@@ -946,6 +1063,15 @@
       "matchEndTime": "2026-03-02T03:30:00",
       "matchTime": "2026-03-02T01:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/24264/image",
       "team1Name": "Girona",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2821/image",
@@ -957,6 +1083,15 @@
       "matchEndTime": "2026-03-01T01:00:00",
       "matchTime": "2026-02-28T23:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2826/image",
       "team1Name": "Mallorca",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2824/image",
@@ -969,6 +1104,15 @@
       "matchEndTime": "2026-03-01T20:30:00",
       "matchTime": "2026-03-01T18:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2846/image",
       "team1Name": "Elche",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2814/image",
@@ -980,6 +1124,15 @@
       "matchEndTime": "2026-03-02T01:00:00",
       "matchTime": "2026-03-01T23:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2868/image",
       "team1Name": "Cultural Leonesa",
       "team2Logo": "https://api.sofascore.com/api/v1/team/6577/image",
@@ -1003,6 +1156,15 @@
       "matchEndTime": "2026-03-02T03:30:00",
       "matchTime": "2026-03-02T01:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2839/image",
       "team1Name": "Eibar",
       "team2Logo": "https://api.sofascore.com/api/v1/team/4488/image",
@@ -1014,6 +1176,15 @@
       "matchEndTime": "2026-03-01T22:45:00",
       "matchTime": "2026-03-01T20:45:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/35092/image",
       "team1Name": "Mirandés",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2869/image",
@@ -1048,6 +1219,15 @@
       "matchEndTime": "2026-03-01T22:45:00",
       "matchTime": "2026-03-01T20:45:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2852/image",
       "team1Name": "Sporting",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2845/image",
@@ -1059,6 +1239,15 @@
       "matchEndTime": "2026-03-01T22:45:00",
       "matchTime": "2026-03-01T20:45:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2828/image",
       "team1Name": "Valencia",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2820/image",
@@ -1130,6 +1319,15 @@
       "matchEndTime": "2026-03-02T00:30:00",
       "matchTime": "2026-03-01T22:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3053/image",
       "team1Name": "Samsunspor",
       "team2Logo": "https://api.sofascore.com/api/v1/team/5138/image",
@@ -1141,6 +1339,15 @@
       "matchEndTime": "2026-03-02T00:30:00",
       "matchTime": "2026-03-01T22:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3056/image",
       "team1Name": "Antalyaspor",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3052/image",
@@ -1211,6 +1418,15 @@
       "matchEndTime": "2026-03-01T23:45:00",
       "matchTime": "2026-03-01T21:45:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1656/image",
       "team1Name": "Lorient",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1646/image",
@@ -1222,6 +1438,15 @@
       "matchEndTime": "2026-03-01T23:45:00",
       "matchTime": "2026-03-01T21:45:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1651/image",
       "team1Name": "Metz",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1715/image",
@@ -1233,6 +1458,15 @@
       "matchEndTime": "2026-03-01T23:45:00",
       "matchTime": "2026-03-01T21:45:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1643/image",
       "team1Name": "Lille",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1647/image",
@@ -1244,6 +1478,15 @@
       "matchEndTime": "2026-03-01T21:30:00",
       "matchTime": "2026-03-01T19:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/6070/image",
       "team1Name": "Paris",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1661/image",
@@ -1255,6 +1498,15 @@
       "matchEndTime": "2026-03-02T03:15:00",
       "matchTime": "2026-03-02T01:15:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1641/image",
       "team1Name": "Marseille",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1649/image",
