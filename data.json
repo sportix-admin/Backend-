@@ -103,17 +103,6 @@
       "team2Logo": "https://api.sofascore.com/api/v1/team/3685/image",
       "team2Name": "Red Wings"
     },
-    "match_14326657": {
-      "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/1692/image/dark",
-      "leagueTitle": "AFC Asian Cup, Women, Group A",
-      "matchEndTime": "2026-03-02T16:30:00",
-      "matchTime": "2026-03-02T14:30:00",
-      "sportType": "FOOTBALL",
-      "team1Logo": "https://api.sofascore.com/api/v1/team/21922/image",
-      "team1Name": "South Korea",
-      "team2Logo": "https://api.sofascore.com/api/v1/team/235466/image",
-      "team2Name": "Iran"
-    },
     "match_15184395": {
       "leagueLogo": "https://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
       "leagueTitle": "Championship",
