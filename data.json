@@ -6,6 +6,13 @@
       "leagueTitle": "",
       "matchEndTime": "2026-03-03T23:54",
       "matchTime": "2026-03-03T21:52",
+      "streamLinks": [
+        {
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd&k1=620e51b82596475517a27aa425c52280&k2=2b9ba811e9c5aeafc8ae1b71cdca4d6a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Stream Link ",
+          "source": "admin"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/unique-tournament/480/image/dark",
       "team1Name": "Team A",
       "team2Logo": "https://api.sofascore.com/api/v1/team/47701/image",
