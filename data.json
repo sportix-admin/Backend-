@@ -33,6 +33,13 @@
           "type": "Direct"
         },
         {
+          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd&k1=3501bd323a6a35c28eb7654bf298b9aa&k2=2db4c8089d627e1b2c480c57baa86a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "PSN SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
           "link": "https://pfl2.orbitorbit.space/playlist/46232/load-playlist?|Referer=https://gooz.aapmains.net",
           "name": "HD SERVER",
@@ -60,6 +67,13 @@
           "type": "Direct"
         },
         {
+          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd&k1=3501bd323a6a35c28eb7654bf298b9aa&k2=2db4c8089d627e1b2c480c57baa86a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "PSN SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
           "link": "https://red5.boostaether.shop/playlist/46231/load-playlist?|Referer=https://gooz.aapmains.net",
           "name": "HD SERVER",
@@ -83,6 +97,13 @@
           "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
           "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&k1=f288380ca4cef9ad3f27a92a08e9bb8b&k2=9f18d26291d9230833501f7f822f6875\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "name": "TNT SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd&k1=3501bd323a6a35c28eb7654bf298b9aa&k2=2db4c8089d627e1b2c480c57baa86a7b\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "PSN SPORTS",
           "source": "SPORTIX",
           "type": "Direct"
         },
@@ -354,6 +375,13 @@
           "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
           "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "name": "beIN ENGLISH",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd&k1=11223344556677889900112233445566&k2=4b80724d0ef86bcb2c21f7999d67739d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "NOVA SPORTS",
           "source": "SPORTIX",
           "type": "Direct"
         }
