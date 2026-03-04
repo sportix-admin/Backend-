@@ -6,6 +6,15 @@
       "matchEndTime": "2026-03-05T03:00:00",
       "matchTime": "2026-03-05T01:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/30/image",
       "team1Name": "Brighton",
       "team2Logo": "https://api.sofascore.com/api/v1/team/42/image",
@@ -17,6 +26,15 @@
       "matchEndTime": "2026-03-05T03:00:00",
       "matchTime": "2026-03-05T01:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/43/image",
       "team1Name": "Fulham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/37/image",
@@ -50,6 +68,15 @@
       "matchEndTime": "2026-03-05T03:00:00",
       "matchTime": "2026-03-05T01:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/40/image",
       "team1Name": "Aston Villa",
       "team2Logo": "https://api.sofascore.com/api/v1/team/38/image",
@@ -271,6 +298,22 @@
       "matchEndTime": "2026-03-04T18:30:00",
       "matchTime": "2026-03-04T16:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE FHD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd&k1=709c812e1b4174002605df1d17d34a4c&k2=0bbee6c9c20a0f065bf8369d54cbf83e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE - SD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/132958/image",
       "team1Name": "Vietnam",
       "team2Logo": "https://api.sofascore.com/api/v1/team/132938/image",
@@ -530,6 +573,22 @@
       "matchEndTime": "2026-03-04T17:30:00",
       "matchTime": "2026-03-04T15:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd&k1=5fd3f407ea7c465b854db7cd8235b39b&k2=0c2ad3408bb09f698e86e1ca2e26a888\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Sport 2 FHD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://live.alilicloud.com/live/24a550e4fe1f7b07836d2da7f8dd708d/playlist.m3u8",
+          "name": "HD SERVER ",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3138/image",
       "team1Name": "Gamba Osaka",
       "team2Logo": "https://api.sofascore.com/api/v1/team/85743/image",
@@ -552,6 +611,22 @@
       "matchEndTime": "2026-03-04T17:30:00",
       "matchTime": "2026-03-04T15:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd&k1=032ba9e7db644873861490a3afc863d8&k2=fd29ed4731ecafba696ac68cbe870008\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Sport 1 FHD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://live.alilicloud.com/live/c65adf11139c814108c2c83cb1b01549/playlist.m3u8",
+          "name": "HD SERVER ",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/7646/image",
       "team1Name": "FC Seoul",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3146/image",
@@ -574,6 +649,15 @@
       "matchEndTime": "2026-03-05T03:30:00",
       "matchTime": "2026-03-05T01:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1641/image",
       "team1Name": "Marseille",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1681/image",
@@ -585,6 +669,15 @@
       "matchEndTime": "2026-03-05T03:00:00",
       "matchTime": "2026-03-05T01:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1656/image",
       "team1Name": "Lorient",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1661/image",
@@ -596,6 +689,15 @@
       "matchEndTime": "2026-03-05T03:30:00",
       "matchTime": "2026-03-05T01:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2824/image",
       "team1Name": "Real Sociedad",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2825/image",
@@ -607,6 +709,15 @@
       "matchEndTime": "2026-03-05T03:30:00",
       "matchTime": "2026-03-05T01:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2699/image",
       "team1Name": "Lazio",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2686/image",
@@ -618,6 +729,15 @@
       "matchEndTime": "2026-03-05T01:30:00",
       "matchTime": "2026-03-04T23:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2818/image",
       "team1Name": "Rayo Vallecano",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2851/image",
