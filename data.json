@@ -8,9 +8,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&k1=f288380ca4cef9ad3f27a92a08e9bb8b&k2=9f18d26291d9230833501f7f822f6875\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "TNT SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8",
+          "name": "NOW SPORTS PL",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -29,8 +36,22 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://s3.us-east-1.amazonaws.com/artemys.derakchd/west.m3u8",
+          "name": "HUB PREMIER - AQ",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://red9.lumenlyra.space/playlist/46297/load-playlist?|Referer=https://gooz.aapmains.net",
+          "name": "PEACOCK HD",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -70,9 +91,30 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd&k1=1d96ab366bbe6451edf7407b58e2fa16&k2=0116201f4a63ac5bf5787d2c610c41a7\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "TNT SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd&k1=96b67fa09140329a89b7a1ead134eda3&k2=c618d32c56cdc6cad8330eb98507ca3f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "NBC UNIVERSO",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://s3.us-east-1.amazonaws.com/artemys.derakchd/chelsea.m3u8",
+          "name": "USA TV - AQ",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -651,9 +693,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd&k1=09453ce820d65fbc675de3185f9e454c&k2=98cff9600995fa381c76fdacf3c7edae\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FOX SPORTS",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -671,9 +713,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd&k1=11223344556677889900112233445566&k2=4b80724d0ef86bcb2c21f7999d67739d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "NOVA SPORT FHD",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -691,9 +733,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "api": "7a5135975978757b3458bb5b3b9dbf5e:eab16719fa7727ab371bd75aeaca9229",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd&k1=7a5135975978757b3458bb5b3b9dbf5e&k2=eab16719fa7727ab371bd75aeaca9229\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "ITV 4",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -711,9 +753,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd&k1=1444f4235529f183f0a5a486befe9cdb&k2=e5e3fec67a1bb3472a2089c8a0a2557f\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "PREMIER SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd&k1=00f9f3c0783536b8ee91704e23b78016&k2=bfd04d6f544c9cc4d35cb13ab6778587\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "ITALIA IT",
           "source": "SPORTIX",
           "type": "Direct"
         }
