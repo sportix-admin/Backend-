@@ -69,6 +69,15 @@
       "matchEndTime": "2026-03-06T03:30:00",
       "matchTime": "2026-03-06T01:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/33/image",
       "team1Name": "Tottenham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/7/image",
@@ -649,6 +658,15 @@
       "matchEndTime": "2026-03-06T02:30:00",
       "matchTime": "2026-03-06T00:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/269199/image",
       "team1Name": "Al-Kholood",
       "team2Logo": "https://api.sofascore.com/api/v1/team/56027/image",
@@ -660,6 +678,15 @@
       "matchEndTime": "2026-03-06T02:30:00",
       "matchTime": "2026-03-06T00:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/204126/image",
       "team1Name": "Damac",
       "team2Logo": "https://api.sofascore.com/api/v1/team/168088/image",
@@ -965,6 +992,15 @@
       "matchEndTime": "2026-03-06T03:40:00",
       "matchTime": "2026-03-06T01:40:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1649/image",
       "team1Name": "Lyon",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1648/image",
