@@ -35,9 +35,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd&k1=7995c724a13748ed970840a8ab5bb9b3&k2=67bdaf1e2175b9ff682fcdf0e2354b1e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "beIN ENGLISH",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD6414/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "ELEVEN SPORTS",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -1114,8 +1121,15 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
+          "name": "beIN SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://smarthard.click/hls/Jih7RNQzpjI8/index.m3u8",
+          "name": "beIN SPORTS FR",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -1174,8 +1188,8 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD2083/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Ligue1+ HD",
           "source": "SPORTIX",
           "type": "Direct"
         }
