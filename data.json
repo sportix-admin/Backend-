@@ -761,9 +761,23 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "7c214cad238a160353453b01da8be646:6f64bc2379b1f703ccfb6410be1dfde1",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow05/index.mpd?hdntl=exp%3D1772977699%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dhdntl%2Cfp%3D1%7Ehmac%3D49819019e2c2f9a42f004c942759b0f2aa876516ab764c0c620830b71aff33fa&hdnts=st%3D1772804870%7Eexp%3D1772891569%7Eacl%3D%2F*%7Eid%3D42901651%7Edata%3Dfp%3D1%7Ehmac%3D3dd730871e72555f07783c8c0dd8f2b24616c65eae09dcacd8a3745bf2b38457&k1=7c214cad238a160353453b01da8be646&k2=6f64bc2379b1f703ccfb6410be1dfde1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "beIN ENGLISH",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD6411/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "ELEVEN SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD2709/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "NOVA SPORTS",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -964,9 +978,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd&k1=d69894c7b729c5d1e85893e5e6cfcb0f&k2=db0d53f871f5d2ef91d3a112c7ec9f30\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Laliga Hypermotion ES",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -1168,8 +1182,15 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD2083/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Ligue1+ HD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD6412/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "ELEVEN SPORTS",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -2065,9 +2086,9 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "api": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&k1=f288380ca4cef9ad3f27a92a08e9bb8b&k2=9f18d26291d9230833501f7f822f6875\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "TNT SPORTS",
           "source": "SPORTIX",
           "type": "Direct"
         }
