@@ -2603,6 +2603,15 @@
       "matchEndTime": "2026-03-07T22:30:00",
       "matchTime": "2026-03-07T20:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/37/image",
       "team1Name": "West Ham",
       "team2Logo": "https://api.sofascore.com/api/v1/team/50/image",
