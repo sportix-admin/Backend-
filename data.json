@@ -1134,8 +1134,8 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8",
+          "name": "beIN SPORTS",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -1202,8 +1202,8 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8",
+          "name": "beIN SPORTS",
           "source": "SPORTIX",
           "type": "Direct"
         }
