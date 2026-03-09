@@ -970,6 +970,15 @@
       "matchEndTime": "2026-03-10T03:00:00",
       "matchTime": "2026-03-10T01:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2858/image",
       "team1Name": "Almería",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2868/image",
@@ -1078,6 +1087,15 @@
       "matchEndTime": "2026-03-09T20:30:00",
       "matchTime": "2026-03-09T18:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/7040/image",
       "team1Name": "Eyüpspor",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3065/image",
@@ -1113,6 +1131,15 @@
       "matchEndTime": "2026-03-10T00:30:00",
       "matchTime": "2026-03-09T22:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3072/image",
       "team1Name": "Kayserispor",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3051/image",
@@ -1172,6 +1199,15 @@
       "matchEndTime": "2026-03-10T00:30:00",
       "matchTime": "2026-03-09T22:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/6362/image",
       "team1Name": "Alanyaspor",
       "team2Logo": "https://api.sofascore.com/api/v1/team/7802/image",
@@ -1675,9 +1711,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
-          "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE ",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd&k1=709c812e1b4174002605df1d17d34a4c&k2=0bbee6c9c20a0f065bf8369d54cbf83e\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE - SD",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -1696,8 +1739,8 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "http://195.178.110.27/hls/WAWAWA.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "HD SERVER ",
           "source": "SPORTIX",
           "type": "Direct"
         }
