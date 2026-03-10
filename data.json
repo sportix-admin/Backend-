@@ -376,6 +376,15 @@
       "matchEndTime": "2026-03-11T03:15:00",
       "matchTime": "2026-03-11T01:15:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/31/image",
       "team1Name": "Leicester",
       "team2Logo": "https://api.sofascore.com/api/v1/team/58/image",
@@ -387,6 +396,15 @@
       "matchEndTime": "2026-03-11T03:15:00",
       "matchTime": "2026-03-11T01:15:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/25/image",
       "team1Name": "Millwall",
       "team2Logo": "https://api.sofascore.com/api/v1/team/27/image",
@@ -420,6 +438,15 @@
       "matchEndTime": "2026-03-11T03:30:00",
       "matchTime": "2026-03-11T01:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/29/image",
       "team1Name": "Stoke",
       "team2Logo": "https://api.sofascore.com/api/v1/team/32/image",
@@ -1934,9 +1961,16 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE FHD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://live.alilicloud.com/live/d46d48f76b691acabd1183c309da87a3/playlist.m3u8",
+          "name": "HD SERVER ",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -1954,9 +1988,23 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd&k1=7e9239c1982d984a002df3ed049d0756&k2=1b8a17598129a3618535c8fb05f103fe\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE FHD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://live.alilicloud.com/live/1d8d71dc254ab02b94c7debe944dedff/playlist.m3u8",
+          "name": "HD SERVER ",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.37/hls/LJJJQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -2929,6 +2977,15 @@
       "matchEndTime": "2026-03-10T19:45:00",
       "matchTime": "2026-03-10T17:45:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/34218/image",
       "team1Name": "Buriram",
       "team2Logo": "https://api.sofascore.com/api/v1/team/42210/image",
@@ -2963,6 +3020,22 @@
       "matchEndTime": "2026-03-10T17:30:00",
       "matchTime": "2026-03-10T15:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://live.alilicloud.com/live/951da1731ab30304f1b1d906903002dc/playlist.m3u8",
+          "name": "HD SERVER ",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.37/hls/LJJJQQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/44409/image",
       "team1Name": "Machida Z",
       "team2Logo": "https://api.sofascore.com/api/v1/team/34220/image",
@@ -3342,6 +3415,15 @@
       "matchEndTime": "2026-03-11T03:30:00",
       "matchTime": "2026-03-11T01:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/39/image",
       "team1Name": "Newcastle",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2817/image",
@@ -3353,6 +3435,15 @@
       "matchEndTime": "2026-03-11T01:15:00",
       "matchTime": "2026-03-10T23:15:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3061/image",
       "team1Name": "Galatasaray",
       "team2Logo": "https://api.sofascore.com/api/v1/team/44/image",
@@ -3375,6 +3466,15 @@
       "matchEndTime": "2026-03-11T03:30:00",
       "matchTime": "2026-03-11T01:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2686/image",
       "team1Name": "Atalanta",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2672/image",
