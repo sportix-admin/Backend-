@@ -2980,8 +2980,15 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://live.alilicloud.com/live/fac3316179c35cc0bbf0fc201c9c2cae/playlist.m3u8",
+          "name": "HD SERVER ",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "http://195.178.110.37/hls/LJJJQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+          "name": "SD SERVER",
           "source": "SPORTIX",
           "type": "Direct"
         }
