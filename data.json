@@ -6,6 +6,15 @@
       "matchEndTime": "2026-03-14T03:15:00",
       "matchTime": "2026-03-14T01:15:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2696/image",
       "team1Name": "Torino",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2690/image",
@@ -105,6 +114,15 @@
       "matchEndTime": "2026-03-14T03:00:00",
       "matchTime": "2026-03-14T01:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2527/image",
       "team1Name": "M'gladbach",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2526/image",
@@ -116,6 +134,15 @@
       "matchEndTime": "2026-03-14T01:00:00",
       "matchTime": "2026-03-13T23:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2591/image",
       "team1Name": "Magdeburg",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2576/image",
@@ -127,6 +154,15 @@
       "matchEndTime": "2026-03-14T01:00:00",
       "matchTime": "2026-03-13T23:00:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2551/image",
       "team1Name": "Fürth",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2598/image",
@@ -138,6 +174,15 @@
       "matchEndTime": "2026-03-14T03:30:00",
       "matchTime": "2026-03-14T01:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/2885/image",
       "team1Name": "Alavés",
       "team2Logo": "https://api.sofascore.com/api/v1/team/2819/image",
@@ -160,6 +205,15 @@
       "matchEndTime": "2026-03-14T00:30:00",
       "matchTime": "2026-03-13T22:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/3056/image",
       "team1Name": "Antalyaspor",
       "team2Logo": "https://api.sofascore.com/api/v1/team/5138/image",
@@ -171,6 +225,15 @@
       "matchEndTime": "2026-03-14T00:30:00",
       "matchTime": "2026-03-13T22:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/4954/image",
       "team1Name": "Karagümrük",
       "team2Logo": "https://api.sofascore.com/api/v1/team/3052/image",
@@ -182,6 +245,15 @@
       "matchEndTime": "2026-03-14T03:15:00",
       "matchTime": "2026-03-14T01:15:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/1641/image",
       "team1Name": "Marseille",
       "team2Logo": "https://api.sofascore.com/api/v1/team/1646/image",
@@ -568,6 +640,15 @@
       "matchEndTime": "2026-03-14T02:30:00",
       "matchTime": "2026-03-14T00:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/168094/image",
       "team1Name": "Al-Fayha",
       "team2Logo": "https://api.sofascore.com/api/v1/team/34318/image",
@@ -579,6 +660,15 @@
       "matchEndTime": "2026-03-14T02:30:00",
       "matchTime": "2026-03-14T00:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/56027/image",
       "team1Name": "Al-Qadsiah",
       "team2Logo": "https://api.sofascore.com/api/v1/team/34469/image",
@@ -590,6 +680,15 @@
       "matchEndTime": "2026-03-14T02:30:00",
       "matchTime": "2026-03-14T00:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/168088/image",
       "team1Name": "Al-Riyadh",
       "team2Logo": "https://api.sofascore.com/api/v1/team/34315/image",
@@ -764,9 +863,30 @@
       "sportType": "CRICKET",
       "streamLinks": [
         {
+          "api": "3757663f0ddde8faf34e73cf636417b1:7e8fcb73c6183793bcc3028108f6860d",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dw8fn5dqni/out/v1/9970dcba9eac4243a9dac04e0dba4359/cenc.mpd&k1=3757663f0ddde8faf34e73cf636417b1&k2=7e8fcb73c6183793bcc3028108f6860d\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "WILLOW - AQ",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "bc4ae67f023277e3962388db3d70e8ff:b306efbeb77165979a553621519b695a",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/gm32be3toh/out/v1/4b0a2888f95e415f9c2dc3227071ba63/cenc-sd.mpd&k1=bc4ae67f023277e3962388db3d70e8ff&k2=b306efbeb77165979a553621519b695a\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "WILLOW - LQ",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8",
+          "name": "TAPMAD - AQ",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd&k1=065051b99bf5cf8d9a3bde5cbde6aaf9&k2=214bd176832872339ce184338320f9a2\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "FANCODE AQ",
           "source": "SPORTIX",
           "type": "Direct"
         }
