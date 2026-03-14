@@ -115,8 +115,22 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://grand-s-main.faggotsports.tv/out/v2/1c392ac1f3101d26ea9cf4e61fcfbb8a/index.m3u8|origin=https://hmembeds.one&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+          "name": "SKY SPORTS FHD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://storage.googleapis.com/unikhsgyrbover2/mux_video_ts1/index-1.m3u8",
+          "name": "SKY SPORTS HD",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -167,8 +181,29 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8",
+          "name": "NOW SPORTS PL",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://daffodil.lifesharper.com/usa.m3u8",
+          "name": "USA TV FHD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://storage.googleapis.com/unikhsgyrbover1/mux_video_ts1/index-1.m3u8",
+          "name": "SKY SPORTS HD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD6219/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "NOVA SPORTS PL",
           "source": "SPORTIX",
           "type": "Direct"
         }
@@ -722,6 +757,27 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "7c214cad238a160353453b01da8be646:6f64bc2379b1f703ccfb6410be1dfde1",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow05/index.mpd?hdntl=exp=1773579576~acl=%2f*~id=43163071~data=hdntl,fp%3d1~hmac=4c992451fca6bc7522d3229d99d4089d3a281a2a7fb5b6101143f98f36d2928e&hdnts=st%3D1773406773%7Eexp%3D1773493473%7Eacl%3D%2F*%7Eid%3D43163071%7Edata%3Dfp%3D1%7Ehmac%3D357a60973e93fc07fc4e80517f7ef8913bfa208dfab5b7c14de4df25094a792a&k1=7c214cad238a160353453b01da8be646&k2=6f64bc2379b1f703ccfb6410be1dfde1\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "beIN SPORTS FHD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd&k1=4bbcff3289d457b4dd5dbdd21221de9a&k2=c4906b9a9f8dda3c0725bddb8c497733\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "SporTV BR",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://grand-s-main.faggotsports.tv/out/v2/34dc783041c18c8e227f7f027737663c/index.m3u8|origin=https://hmembeds.one&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+          "name": "SKY BUNDESLIGA FHD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
           "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD6414/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "name": "ELEVEN SPORTS",
@@ -749,9 +805,30 @@
       "sportType": "FOOTBALL",
       "streamLinks": [
         {
+          "api": "597b1d0fdddb383fd37febd057d3fd1c:a728d9c017f83e3e6e77b7d7c0231b22",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://apac-live.akamaized.net/ehyrzisobs/bein_sports_vflow07/index.mpd?hdntl=exp=1773579576~acl=%2f*~id=43163071~data=hdntl,fp%3d1~hmac=4c992451fca6bc7522d3229d99d4089d3a281a2a7fb5b6101143f98f36d2928e&hdnts=st%3D1773406773%7Eexp%3D1773493473%7Eacl%3D%2F*%7Eid%3D43163071%7Edata%3Dfp%3D1%7Ehmac%3D357a60973e93fc07fc4e80517f7ef8913bfa208dfab5b7c14de4df25094a792a&k1=597b1d0fdddb383fd37febd057d3fd1c&k2=a728d9c017f83e3e6e77b7d7c0231b22\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "beIN SPORTS FHD",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
           "api": "",
           "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD6412/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
           "name": "ELEVEN SPORTS",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://instreams.live/EU/HDTV14/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click",
+          "name": "SKY BUNDESLIGA",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773540281~acl=/*~id=20489221647248636818177459003449~hmac=265d0a57ef9f96ffc2dc095e241d19f9823b63368d7dfea76aa040515c3caefa|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; SmartTV 4K FFM; Build/RTT2.220118.001)",
+          "name": "SonyLiv [ENG]",
           "source": "SPORTIX",
           "type": "Direct"
         }
