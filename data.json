@@ -1165,8 +1165,15 @@
       "streamLinks": [
         {
           "api": "",
-          "link": "https://no.link",
-          "name": "Link 1",
+          "link": "https://daffodil.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8",
+          "name": "beIN SPORTS ES",
+          "source": "SPORTIX",
+          "type": "Direct"
+        },
+        {
+          "api": "",
+          "link": "<iframe src=\"https://sportix-admin.github.io/Video-player/?play=https://bbb.exoadash.com/TVD2083/index.mpd\" style=\"width: 100%; aspect-ratio: 16/9; border: none;\" allow=\"autoplay; encrypted-media; picture-in-picture; fullscreen\" allowfullscreen></iframe>",
+          "name": "Ligue1+ HD",
           "source": "SPORTIX",
           "type": "Direct"
         }
