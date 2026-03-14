@@ -1679,6 +1679,15 @@
       "matchEndTime": "2026-03-15T02:30:00",
       "matchTime": "2026-03-15T00:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/56023/image",
       "team1Name": "Al-Fateh",
       "team2Logo": "https://api.sofascore.com/api/v1/team/21895/image",
@@ -1690,6 +1699,15 @@
       "matchEndTime": "2026-03-15T02:30:00",
       "matchTime": "2026-03-15T00:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/167228/image",
       "team1Name": "Al-Khaleej",
       "team2Logo": "https://api.sofascore.com/api/v1/team/23400/image",
@@ -1726,6 +1744,15 @@
       "matchEndTime": "2026-03-15T02:30:00",
       "matchTime": "2026-03-15T00:30:00",
       "sportType": "FOOTBALL",
+      "streamLinks": [
+        {
+          "api": "",
+          "link": "https://no.link",
+          "name": "Link 1",
+          "source": "SPORTIX",
+          "type": "Direct"
+        }
+      ],
       "team1Logo": "https://api.sofascore.com/api/v1/team/34313/image",
       "team1Name": "Al-Shabab",
       "team2Logo": "https://api.sofascore.com/api/v1/team/336456/image",
